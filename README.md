@@ -1,2 +1,2 @@
-# Dara-Science-School_2020
+# Data-Science-School_2020
 Репозиторий курса "Школа DS" совместно от Сбера и МФТИ.
