@@ -1,2 +1,2 @@
-# Data-Science-School_2020
+# Data-Science-School-2020
 Репозиторий курса "Школа DS" совместно от Сбера и МФТИ.
