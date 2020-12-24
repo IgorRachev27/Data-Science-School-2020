@@ -1,3 +1,18 @@
 Lecture: 22.12.2020
 HW: ДЗ расположено в ноутбуке "HW_lessons_9_10.ipynb" в папке "lecture_10" по ссылке https://github.com/ddvika/Data-Science-School-2020/tree/main/lecture_10
 HW deadline: 01.01.2021, 23:59
+
+
+Рекомендуемая литература к изучению: 
+
+- Краткое введение в статистику: https://drive.google.com/file/d/1PRoCYkHLvSQI7IUqwt3bkcdbRrQ_EW2P/view
+- Начала теорвера: https://drive.google.com/file/d/1bc1g50uDFTYX7ExSlHs75blMbEwwmGEI/view
+
+Матан: 
+
+- Азы дифференцирования: http://mathprofi.ru/kak_naiti_proizvodnuju.html
+- Вычисление частных производных: http://mathprofi.ru/chastnye_proizvodnye_primery.html
+- Вычисление производных по направлению и градиента: http://mathprofi.ru/proizvodnaja_po_napravleniju_i_gradient.html
+- Дифференциальное исчисление функций многих переменных: https://drive.google.com/file/d/1YxwRJSbwyF-1RVjOAtueYOjpUv00nRRp/view
+- Методы оптимизации (кроме градиентного спуска): https://drive.google.com/file/d/182ES3Yw-XJauEo33OjVMzDJQiThGh-fh/view
+- Градиентный спуск в подробностях: https://github.com/amkatrutsa/MIPT-Opt/blob/master/Spring2020/intro_gd.ipynb
